@@ -5,7 +5,9 @@ This directory contains comprehensive study materials on Chemical Bonding, based
 ## Table of Contents
 
 ### 1. [Chemical Bonding Study Guide](Chemical_Bonding_Study_Guide.md)
+
 Comprehensive guide covering all essential concepts of chemical bonding including:
+
 - Introduction to chemical bonding
 - Types of chemical bonds (ionic, covalent, metallic)
 - Electronegativity and bond polarity
@@ -14,10 +16,13 @@ Comprehensive guide covering all essential concepts of chemical bonding includin
 - Intermolecular forces
 
 ### 2. [Key Concepts and Definitions](Key_Concepts_and_Definitions.md)
+
 Quick reference guide for important terms and concepts related to chemical bonding.
 
 ### 3. [Molecular Geometry Visual Guide](Molecular_Geometry_Guide.md)
+
 Visual representations of common molecular geometries with detailed explanations of:
+
 - Electron pair geometries
 - Molecular geometries
 - Bond angles
@@ -25,7 +30,9 @@ Visual representations of common molecular geometries with detailed explanations
 - AXE notation
 
 ### 4. [Practice Problems](Practice_Problems.md)
+
 Collection of practice problems covering:
+
 - Lewis structures
 - Molecular geometries
 - Bond polarity
@@ -33,7 +40,9 @@ Collection of practice problems covering:
 - Advanced bonding concepts
 
 ### 5. [Review Quiz](Review_Quiz.md)
+
 Self-assessment quiz to test your understanding, including:
+
 - Multiple choice questions
 - True/false questions
 - Short answer questions
@@ -59,9 +68,9 @@ Self-assessment quiz to test your understanding, including:
 - Online simulations and visualization tools
 - Periodic table with electronegativity values
 
-## Learning Objectives
+## Learning Objectives After Study case
 
-After studying these materials, you should be able to:
+Once you have studied these materials, you should be able to:
 
 1. Identify and explain the different types of chemical bonds
 2. Draw Lewis structures for molecules and ions
