@@ -1,4 +1,4 @@
-# Key Concepts and Definitions: Chemical Bonding
+# Key Concepts and Definitions: **Chemical Bonding**
 
 ## Fundamental Concepts
 
